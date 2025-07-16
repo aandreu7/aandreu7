@@ -1,10 +1,15 @@
-# 👋 Hi there!
+I like to build things.
 
-My name is **Andreu**, I am a technology enthusiast with a solid background in **C/C++ and Python**, passionate about **machine learning**, **computer vision**, and **systems programming**.
+**C++** and **Python** are my main tools — I've been working with them for a while.
+I believe that combining their main difference —performance and safety, respectively— can lead to something transformative. That’s why I fell in love with **Rust**.
 
-I enjoy building tools and applications that solve real-world problems, with a special interest in low-level programming and data science.
+My favorite areas of interest include:
 
-Currently learning about **Rust**, **Cybersecurity** and improving my **Deep Learning** knowledge.
+- **Deep Learning**  
+- **Computer Vision**
+- **Systems Programming**  
+
+I’m also drawn to **Cybersecurity** and low-level **hardware architecture**.
 
 ---
 
@@ -16,7 +21,7 @@ Here's a list of the repositories I believe describe me and my work the most:
 
 ### ❤️ Cardiovascular Disease Predictor (project completed)
 
-Exhaustive resarch of a large medical dataset (70.000 samples), aiming to find a model capable of predicting if a person is likely to have caught or catch in the near future a cardiovascular disease.
+Exhaustive research of a large medical dataset (70.000 samples), aiming to find a model capable of predicting if a person is likely to have caught or catch in the near future a cardiovascular disease.
 
 ### 🤖💊 MyHealthKit (project completed)
 
