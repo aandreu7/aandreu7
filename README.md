@@ -1,9 +1,52 @@
 # 👋 Hi there!
 
-I'm **Andreu PJ**, a technology enthusiast with a solid background in **C/C++ and Python**, passionate about **machine learning**, **computer vision**, and **systems programming**.  
+My name is **Andreu**, I am a technology enthusiast with a solid background in **C/C++ and Python**, passionate about **machine learning**, **computer vision**, and **systems programming**.
+
 I enjoy building tools and applications that solve real-world problems, with a special interest in low-level programming and data science.
 
 Currently learning about **Rust**, **Cybersecurity** and improving my **Deep Learning** knowledge.
+
+---
+
+## 🧐 What are you going to find in my repositories?
+
+I've been working on several projects, involving a large variety of different technologies, focusing on Machine Learning, but also working on fields relating robotics, data compression, cybersecurity, web and app development, videogames, Cloud technologies and more.
+
+Here's a list of the repositories I believe describe me and my work the most:
+
+### ❤️ Cardiovascular Disease Predictor (project completed)
+
+Exhaustive resarch of a large medical dataset (70.000 samples), aiming to find a model capable of predicting if a person is likely to have caught or catch in the near future a cardiovascular disease.
+
+### 🤖💊 MyHealthKit (project completed)
+
+MyHealthKit is a modular robotic system designed to store, manage, and dispense medicines autonomously. Built around a Raspberry Pi 4, the robot integrates sensors such as RPLidar for laser-based environment mapping and integrates ROS Noetic for SLAM and navigation. The physical structure includes laser-cut wood and methacrylate parts, combined with custom-designed 3D-printed components to create a practical and compact storage mechanism.
+
+This project and its repository is divided into two big modules: MyHealthController, related to all code running within the physical robot (SLAM, Navigation, server...), and MyHealthCall, a React Native application used to interact with the physical robot.
+
+### 🕊️ Tweet Classifier (project completed)
+
+Developement of a Naive Bayes classifier capable of recognizing if a tweet has either a positive or a negative sentiment.
+
+### 🏃‍♂️ iNutriScan (project completed)
+
+This projects involves the development of an application with React Native and Typescript, which integrates Cloud technologies (with Google Cloud as the main provider) such as APIs use, Cloud Functions, Cloud hosting, Cloud storage and federated authentication.
+
+iNutriScan aims to help users to track their fitness and nutrition to provide personalized recommendations and plans, empowering people to live a healthier and more balanced life.
+
+### 🚗 Accident Severity Predictor (under developement)
+
+The goal of this project is to develop and compare various models (specially Random Forests and Neural Networks) in order to predict the severity of a traffic accident based on several variables such as location, road surface condition, speed limit, weather conditions, and more. The goal is to minimize the occurrence of the most severe accidents and improve response efficiency.
+
+### 🤐 RustyZipper (under developement)
+
+RustyZipper is a flexible and efficient encoder and decoder written in Rust. It supports encoding and decoding of any file type using a variety of classic and modern codecs, including Huffman, RLE, LZ77, and more.
+
+The special characteristic of RustyZipper is that it allows user to specify the codecs and order of codecs in which files are going to be encoded, and uses just a couple of meta-data bytes.
+
+### ⚽ Gravity Sphere (project completed)
+
+Honoring the popular 90's game Kula World, Gravity Sphere is a PC videogame completely open-source and written in C++, with enhanced playability and graphics.
 
 ---
 
