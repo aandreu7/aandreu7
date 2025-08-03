@@ -5,7 +5,7 @@ Hi everyone, my name is Andreu. Here's a little bit about me:
 I am a Computer Science enthusiast and a trully challenge seeker.
 
 **C++** and **Python** are my main tools — I've been working with them for a while.
-I believe that combining their main difference —performance and safety, respectively— can lead to something transformative. That’s why I fell in love with **Rust**.
+I believe that combining their main difference —performance and safety/readability, respectively— can lead to something transformative. That’s why I fell in love with **Rust**.
 
 My favorite areas of interest include:
 
