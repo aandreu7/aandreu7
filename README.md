@@ -1,4 +1,6 @@
-I like to build things.
+Hi everyone, my name is Andreu. Here's a little bit about me:
+
+I am a Computer Science enthusiast and a trully challenge seeker.
 
 **C++** and **Python** are my main tools — I've been working with them for a while.
 I believe that combining their main difference —performance and safety, respectively— can lead to something transformative. That’s why I fell in love with **Rust**.
@@ -53,6 +55,10 @@ The special characteristic of RustyZipper is that it allows user to specify the 
 
 Honoring the popular 90's game Kula World, Gravity Sphere is a PC videogame completely open-source and written in C++, with enhanced playability and graphics.
 
+### 🖼️ Transart (under developement)
+
+A style transfer tool powered by deep learning and inspired by the seminal paper “A Neural Algorithm of Artistic Style.” It enables users to apply the visual style of any artwork or artist to any image, blending content and style through deep learning techniques. With Transart, you can transform everyday photos into any artistic style you choose.
+
 ---
 
 ## 🌐 Connect with me
@@ -63,8 +69,10 @@ Feel free to contact me for any inquiry.
   <a href="https://www.linkedin.com/in/andreu-p/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/andreuplanajoya" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</p>
+<p align="left">
+  <a href="mailto:aplana16ins@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
