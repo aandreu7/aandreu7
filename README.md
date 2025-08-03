@@ -1,4 +1,4 @@
-### NO LIMITS
+# NO LIMITS
 
 Hi everyone, my name is Andreu. Here's a little bit about me:
 
