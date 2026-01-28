@@ -1,17 +1,24 @@
-Hi everyone, my name is Andreu. Here's a little bit about me:
+## 👋🤗🐣✨🌚 HI THERE 🌚✨🐣🤗👋
 
-I am a Computer Science enthusiast and a trully challenge seeker.
+I’m **Andreu**,  
+a Computer Science engineer with a strong interest in building efficient, scalable, and intelligent systems.
 
-**C++** and **Python** are my main tools — I've been working with them for a while.
-I believe that combining their main difference —performance and safety/readability, respectively— can lead to something transformative. That’s why I fell in love with **Rust**.
+My main technical focus lies in:
 
-My favorite areas of interest include:
+- **Deep Learning**, with emphasis on model design and optimization  
+- **Computer Vision**, from classical pipelines to modern deep architectures  
+- **Systems Programming**, including performance-critical and low-level software  
 
-- **Deep Learning**  
-- **Computer Vision**
-- **Systems Programming**  
+I also have a solid interest in **Cybersecurity** and **computer architecture**, particularly in understanding system behavior at low levels (memory, concurrency, hardware–software interaction...).
 
-I’m also drawn to **Cybersecurity** and low-level **hardware architecture**.
+My primary programming languages are **C++** and **Python**, which I have used extensively in both academic and practical contexts. With the rapid evolution of GenAI and natural-language-driven development, I increasingly focus on **algorithmic thinking, system design, and problem decomposition**, rather than on language-specific implementation details. For me, programming is fundamentally about reasoning, abstraction, and correctness.
+
+In 2025, I was awarded a **competitive scholarship** to carry out an internship at the **Computer Vision Center (CVC)** — a prestigious research institute affiliated with the **Universitat Autònoma de Barcelona (UAB)**  
+🔗 https://www.cvc.uab.es/
+
+I am currently conducting my **final degree research project** at CVC, focused on **global planning systems for autonomous vehicles**, working at the intersection of perception, decision-making, and real-world constraints.
+
+I value rigorous engineering, continuous learning, and tackling technically challenging problems.
 
 ---
 
@@ -63,16 +70,11 @@ A style transfer tool powered by deep learning and inspired by the seminal paper
 
 ## 🌐 Connect with me
 
-Feel free to contact me for any inquiry.
+DM to LinkedIn.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andreu-p/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-<p align="left">
-  <a href="mailto:aplana16ins@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
