@@ -1,6 +1,6 @@
 Hi there! 
 
-I am an undergraduate computer science student & researcher, with strong focus on ML/DL applied to Autonomous Driving & Robotics.
+I am an undergraduate computer science student & researcher at Computer Vision Center (UAB), with strong focus on ML/DL applied to Autonomous Driving & Robotics.
 
 My main research lines, as of today, are listed here:
 
@@ -8,6 +8,14 @@ My main research lines, as of today, are listed here:
 - Vision-Language Action Models (VLA)
 - End-to-end A.D. systems
 - World Action Models (WMA)
+
+I am currently working on the application of VLMs on Global Planning, with the goal of generating correct high-level navigation instructions.
+So far, we have been dealing with the following approaches:
+
+- Imitation Learning
+- Reinforcement Learning (PPO)
+- VLMs fine-tuning through DoRA
+- ResNet/HRNet + Transformer architectures
 
 ## 🌐 Connect with me
 
