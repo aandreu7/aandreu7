@@ -9,8 +9,6 @@ My main research lines, as of today, are listed here:
 - End-to-end A.D. systems
 - World Action Models (WMA)
 
-Feel free to contact for any inquiry.!!
-
 ## 🌐 Connect with me
 
 LinkedIn.
