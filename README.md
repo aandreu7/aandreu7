@@ -1,6 +1,19 @@
+Hi there! 
+
+I am an undergraduate computer science student & researcher, with strong focus on ML/DL applied to Autonomous Driving & Robotics.
+
+My main research lines, as of today, are listed here:
+
+- Vision-Language Models (VLM)
+- Vision-Language Action Models (VLA)
+- End-to-end A.D. systems
+- World Action Models (WMA)
+
+Feel free to contact for any inquiry.!!
+
 ## 🌐 Connect with me
 
-DM to LinkedIn.
+LinkedIn.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andreu-p/" target="_blank">
