@@ -1,33 +1,29 @@
-Hi there! 
+I'm a Computer Vision Researcher focused on Autonomous Systems.
+ 
+Some day I trained a Linear Regression on sk-learn, just by curiosity, then somehow I got into the Computer Vision Center (CVC), where I research planning algorithms for autonomous vehicles applying SOTA Deep Learning techniques.
 
-I am an undergraduate computer science student & researcher at Computer Vision Center (UAB), with strong focus on ML/DL applied to Autonomous Driving & Robotics.
+My main research work, as of today, has consisted on applying VLMs to Global Route Planning, making these models decide how to reach a destination under conditions where traditional graph-based methods become unreliable.
 
-My main research lines, as of today, are listed here:
+What I'm currently exploring / interested on:
+ 
+- End-to-end Autonomous Driving models
+- Vision-Language-Action Models (VLA)
+- World Action Models
+- Self-Supervised Learning (SSL)
+ 
+Methods and tools I have worked with:
+ 
+- Imitation Learning and Reinforcement Learning (PPO, SAC)
+- Parameter-Efficient Fine-Tuning (PEFT) for adapting large pretrained models
+- Foundational Visual encoders such as DINO and JEPA
 
-- Vision-Language Models (VLM)
-- Vision-Language Action Models (VLA)
-- End-to-end A.D. systems
-- World Action Models (WMA)
-
-I am currently working on the application of VLMs on Global Planning, with the goal of generating correct high-level navigation instructions.
-So far, we have been dealing with the following approaches:
-
-- Imitation Learning
-- Reinforcement Learning (PPO)
-- VLMs fine-tuning through DoRA
-- ResNet/HRNet + Transformer architectures
-
-## 🌐 Connect with me
-
-LinkedIn.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/andreu-p/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
+Outside of research, I actively participate in hackathons: I enjoy the pressure of turning an idea into a working solution in a couple of days, alongside people from completely different backgrounds. Some recent ones:
+ 
+- NASA International Space Apps Challenge 2025
+- UAB THE HACK! 2025
+- Boehringer Ingelheim Hackathon 2025
+ 
+I'm always happy to connect with people working on autonomous driving, robotics, or embodied AI, whether that's for research collaboration, technical discussions, or new opportunities.
 
 ## 🧰 Tech Stack
 
