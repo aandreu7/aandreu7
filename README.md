@@ -1,6 +1,6 @@
 I'm a Computer Vision Researcher focused on Autonomous Systems.
  
-Some day I trained a Linear Regression on sk-learn, just by curiosity, then somehow I got into the Computer Vision Center (CVC), where I research planning algorithms for autonomous vehicles applying SOTA Deep Learning techniques.
+Some day I trained a Linear Regression on sk-learn, just by curiosity, then somehow I got into the Computer Vision Center (CVC), where I research planning algorithms for autonomous vehicles applying frontier Deep Learning techniques.
 
 My main research work, as of today, has consisted on applying VLMs to Global Route Planning, making these models decide how to reach a destination under conditions where traditional graph-based methods become unreliable.
 
@@ -44,11 +44,4 @@ I'm always happy to connect with people working on autonomous driving, robotics,
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 </p>
 
----
 
-## 📊 Most Used Languages
-
-<!-- GitHub Stats Language Card -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aandreu7&layout=compact&langs_count=10&hide=html" alt="Most Used Languages" />
-</p>
